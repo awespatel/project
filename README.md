@@ -10,7 +10,7 @@ Data Cleaning & Analysis - MySQL Workbench
 
 Data Visualization - PowerBI
 
-## Questions (KPI's)
+## KPI's
 
 1.What is the gender breakdown of employees in the company?
 
@@ -34,7 +34,7 @@ Data Visualization - PowerBI
 
 11.What is the tenure distribution for each department?
 
-## Summary of Findings
+## Findings
  - There are more male employees
  - White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
  - The youngest employee is 20 years old and the oldest is 57 years old
