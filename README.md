@@ -1,5 +1,5 @@
 # HR-Dashboard-MySQL-PowerBI
-![image][https://github.com/awespatel/project/blob/main/Screenshot%202024-05-13%20183510.png]
+![Screenshot 2024-05-13 183510](https://github.com/awespatel/project/assets/158718851/3346015b-206e-43a3-8b4c-b189c9dbd546)
 
 
 ## Data Used
